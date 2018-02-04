@@ -1,2 +1,6 @@
 # ignore patches
 *.diff
+
+# ignore build output
+st
+*.o
